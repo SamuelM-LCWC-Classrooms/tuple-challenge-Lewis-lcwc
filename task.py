@@ -7,4 +7,3 @@ def task():
 
     grade= (name, subject, score)
     return grade
-print(task())
